@@ -1,0 +1,4 @@
+C:\Users\Yura\source\repos\lab3pp\Debug\lab3pp.vcxproj.CopyComplete
+C:\Users\Yura\source\repos\lab3pp\Debug\lab3pp.exe
+C:\Users\Yura\source\repos\lab3pp\Debug\libcurl-d.dll
+C:\Users\Yura\source\repos\lab3pp\Debug\zlibd1.dll
